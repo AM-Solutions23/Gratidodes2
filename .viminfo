@@ -12,7 +12,9 @@
 ~h
 # Histórico de Linha de comando (mais recente primeiro):
 :wq
-|2,0,1621360821,,"wq"
+|2,0,1621361014,,"wq"
+:q!
+|2,0,1621360927,,"q!"
 
 # Histórico de Expressões de busca (mais recente primeiro):
 
@@ -25,18 +27,33 @@
 # Registradores:
 
 # Marcas nos arquivos:
-'0  1  12  ~/.gitignore
-|4,48,1,12,1621360821,"~/.gitignore"
+'0  2  3  ~/.gitignore
+|4,48,2,3,1621361014,"~/.gitignore"
+'1  1  12  ~/.gitignore
+|4,49,1,12,1621360927,"~/.gitignore"
+'2  1  12  ~/.gitignore
+|4,50,1,12,1621360927,"~/.gitignore"
+'3  1  12  ~/.gitignore
+|4,51,1,12,1621360821,"~/.gitignore"
+'4  1  12  ~/.gitignore
+|4,52,1,12,1621360821,"~/.gitignore"
 
 # Lista de saltos (mais recente primeiro):
+-'  2  3  ~/.gitignore
+|4,39,2,3,1621361014,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1621361009,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1621360927,"~/.gitignore"
 -'  1  12  ~/.gitignore
 |4,39,1,12,1621360821,"~/.gitignore"
 
 # Histórico de marcas nos arquivos (mais recente primeiro):
 
 > ~/.gitignore
-	*	1621360820	0
-	"	1	12
-	^	1	13
-	.	1	13
+	*	1621361013	0
+	"	2	3
+	^	2	4
+	.	2	3
 	+	1	13
+	+	2	3
