@@ -1,0 +1,42 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.0.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de Linha de comando (mais recente primeiro):
+:wq
+|2,0,1621360821,,"wq"
+
+# Histórico de Expressões de busca (mais recente primeiro):
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Debug Line (mais recente primeiro):
+
+# Registradores:
+
+# Marcas nos arquivos:
+'0  1  12  ~/.gitignore
+|4,48,1,12,1621360821,"~/.gitignore"
+
+# Lista de saltos (mais recente primeiro):
+-'  1  12  ~/.gitignore
+|4,39,1,12,1621360821,"~/.gitignore"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/.gitignore
+	*	1621360820	0
+	"	1	12
+	^	1	13
+	.	1	13
+	+	1	13
